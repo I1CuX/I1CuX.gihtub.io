@@ -1,0 +1,16 @@
+Uri: https://it.smartbeardspray.com/success.html
+File Name: c:\Downloaded Web Sites\it.smartbeardspray.com\success.html
+Content Type: text/html
+
+Uri: https://it.smartbeardspray.com/img/ss-thank-ico.svg
+File Name: c:\Downloaded Web Sites\it.smartbeardspray.com\img\ss-thank-ico.svg
+Content Type: image/svg+xml
+
+Uri: https://it.smartbeardspray.com/js/webvork.js
+File Name: c:\Downloaded Web Sites\it.smartbeardspray.com\js\webvork.js
+Content Type: application/javascript
+
+Uri: https://it.smartbeardspray.com/js/subscribe.js
+File Name: c:\Downloaded Web Sites\it.smartbeardspray.com\js\subscribe.js
+Content Type: application/javascript
+
